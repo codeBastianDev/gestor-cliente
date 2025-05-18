@@ -1,0 +1,54 @@
+{
+  "clientes": [
+    {
+      "id": "1",
+      "nombre": "Juan Pérez",
+      "direccion": "Av. Duarte #123, Santo Domingo"
+    },
+    {
+      "id": "2",
+      "nombre": "Ana Rodríguez",
+      "direccion": "Calle Del Sol #45, Santiago"
+    },
+    {
+      "id": "3",
+      "nombre": "Carlos Ramírez",
+      "direccion": "Calle Mella #88, San Cristóbal"
+    },
+    {
+      "id": "4",
+      "nombre": "Ernesto García",
+      "direccion": "Calle Principal, El Almirante, Santo Domingo Este"
+    },
+    {
+      "id": "5",
+      "nombre": "Sebastián Torres",
+      "direccion": "Calle 12, El Almirante, Santo Domingo Este"
+    },
+    {
+      "id": "6",
+      "nombre": "Laura Martínez",
+      "direccion": "Av. Luperón #76, Santo Domingo Oeste"
+    },
+    {
+      "id": "7",
+      "nombre": "Luis Santana",
+      "direccion": "Calle Restauración, La Vega"
+    },
+    {
+      "id": "8",
+      "nombre": "Camila Díaz",
+      "direccion": "Av. Independencia #200, Santo Domingo"
+    },
+    {
+      "id": "9",
+      "nombre": "Roberto Núñez",
+      "direccion": "Calle Las Palmas, San Pedro de Macorís"
+    },
+    {
+      "id": "10",
+      "nombre": "Natalia Herrera",
+      "direccion": "Calle El Progreso #30, Barahona"
+    }
+  ]
+}
